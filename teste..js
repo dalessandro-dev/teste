@@ -1,4 +1,6 @@
 const a = 1
-const b = 2
-
-console.log(b + a)
+const b = 4
+console.log('m')
+console.log('m')
+console.log('m')
+console.log('m')
