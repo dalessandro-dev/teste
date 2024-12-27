@@ -1,4 +1,4 @@
 const a = 1
-const b = 2
+const c = 44
 
-console.log(b + a)
+console.log('eae')
